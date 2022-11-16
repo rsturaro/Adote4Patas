@@ -286,32 +286,14 @@
     }
 }
 
-@media(max-width: 436px) {
+@media(max-width: 385px) {
     .main-content-position {
-        max-width: 65%;
+        max-width: 72%;
     }
 }
 
-@media(max-width: 392px) {
+@media(max-width: 335px) {
     .main-content-position {
-        max-width: 70%;
-    }
-}
-
-@media(max-width: 368px) {
-    .main-content-position {
-        max-width: 75%;
-    }
-}
-
-@media(max-width: 336px) {
-    .main-content-position {
-        max-width: 80%;
-    }
-}
-
-@media(max-width: 316px) {
-    .main-content-position {
-        max-width: 85%;
+        max-width: 79%;
     }
 }
