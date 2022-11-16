@@ -303,3 +303,15 @@
         max-width: 75%;
     }
 }
+
+@media(max-width: 336px) {
+    .main-content-position {
+        max-width: 80%;
+    }
+}
+
+@media(max-width: 316px) {
+    .main-content-position {
+        max-width: 85%;
+    }
+}
